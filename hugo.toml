@@ -1,0 +1,16 @@
+baseURL = "https://balades-parisiennes.github.io/blog/"
+languageCode = 'fr-fr'
+title = 'Les petites balades parisiennes'
+theme = "hugo-cards"
+
+[params]
+  defaultImage = "images/default.jpg"  # Image par défaut pour les articles sans image
+  custom_css = ["css/custom.css"]      # Fichier CSS personnalisé
+
+[params.post.meta]
+  isHidden = false
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

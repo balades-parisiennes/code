@@ -1,0 +1,82 @@
+<div class="col-md-4 mt20 custom-sidebar">
+        <div class="post-img">
+			{{ if .Params.img }}
+				<img width="100%" src="{{ .Params.img | safeURL }}" alt="{{ .Title }}">
+			{{ else }}
+				<img width="600" src="{{ .Site.BaseURL }}images/{{ .Site.Params.defaultImage }}" alt="webjeda">
+			{{ end }}
+        </div>
+		
+		<br>
+		
+		{{ with .Params.info_pratiques }}
+  <div class="sidebar-box">
+    <h3>📅 Infos pratiques</h3>
+    <ul>
+      {{ if .debut }}
+        <li><strong>Début :</strong> {{ .debut }}</li>
+      {{ end }}
+      {{ if .fin }}
+        <li><strong>Fin :</strong> {{ .fin }}</li>
+      {{ end }}
+      {{ if .lieu }}
+        <li><strong>Lieu :</strong>
+          {{ if .map }}
+            <a href="{{ .map }}" target="_blank" rel="noopener">{{ .lieu }}</a>
+          {{ else }}
+            {{ .lieu }}
+          {{ end }}
+        </li>
+		      {{ if and .tarif .billetterie }}
+        <li><strong>Tarif :</strong> <a href="{{ .billetterie }}" target="_blank" rel="noopener">{{ .tarif }}</a></li>
+      {{ else if .tarif }}
+        <li><strong>Tarif :</strong> {{ .tarif }}</li>
+      {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+{{ end }}
+
+		{{ with .Params.categories }}
+		<div class="sidebar-box">
+			<h3>📂 Catégories</h3>
+			<ul>
+			{{ range . }}
+				<li><a href="{{ "categories/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>
+			{{ end }}
+			</ul>
+		</div>
+		{{ end }}
+	
+	{{ with .Params.tags }}
+  <div class="sidebar-box">
+    <h3>🏷️ Tags</h3>
+    <p>
+      {{- range $index, $tag := . -}}
+        <a href="{{ "tags/" | relURL }}{{ $tag | urlize }}">{{ $tag }}</a>{{ if lt (add $index 1) (len .) }}, {{ end }}
+      {{- end -}}
+    </p>
+  </div>
+{{ end }}
+	
+        
+        <div class="sidebar-box">
+            <h3>🕑 Articles récents</h3>
+             <ul>
+                {{ range first 5 (where .Site.RegularPages "Section" "posts") }}
+
+                      <li>
+                      <a href="{{ .Permalink }}">{{ .Title }}</a>
+                      </li>
+
+                {{ end }}
+              </ul>
+        </div>
+        {{ if .Site.Params.fbLikeBox }}
+        <div class="mt10">
+            <div class="fb-page" data-href="https://www.facebook.com/webjeda/" data-width="400" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true"><blockquote cite="https://www.facebook.com/webjeda/" class="fb-xfbml-parse-ignore"><a href="{site.fb-page-url}}">{{ .Site.Params.fbPageTitle}}</a></blockquote></div>
+        </div>
+        {{ end }}
+        <br>
+
+</div>

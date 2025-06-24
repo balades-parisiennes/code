@@ -1,0 +1,13 @@
+<table style="margin:auto; text-align:center;">
+  <tr>
+  {{- $images := .Get "images" | default "" -}}
+  {{- $imgs := split $images "," -}}
+  {{- range $i, $img := $imgs -}}
+    <td>
+      <a href="{{ $img | safeURL }}" data-lightbox="galerie" data-title="Image {{ add $i 1 }}">
+        <img src="{{ $img | safeURL }}" alt="Image {{ add $i 1 }}" />
+      </a>
+    </td>
+  {{- end -}}
+  </tr>
+</table>

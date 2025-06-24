@@ -1,0 +1,80 @@
+blockquote {
+  background-color: #f0f8ff; /* bleu très léger */
+  border-left: 3px solid #2196f3; /* bleu un peu plus foncé */
+  padding: 1em 1.2em;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  font-size: 1em; /* pas trop gros */
+  font-style: normal; /* optionnel : pas italique */
+}
+.sidebar-box {
+  background: #f9f9ff;
+  border-left: 3px solid #007acc;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  border-radius: 6px;
+}
+.sidebar-box h3 {
+  margin-top: 0;
+  font-size: 1.1em;
+}
+.sidebar-box ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.sidebar-box li a {
+  text-decoration: none;
+  color: #007acc;
+}
+.sidebar-box li a:hover {
+  text-decoration: underline;
+}
+
+.sidebar-box li a {
+  text-decoration: none;
+  color: #007acc;
+
+  display: inline-block;       /* pour appliquer la largeur max */
+  max-width: 180px;            /* ajuste selon ta sidebar */
+  white-space: nowrap;         /* empêche le passage à la ligne */
+  overflow: hidden;            /* masque le dépassement */
+  text-overflow: ellipsis;     /* ajoute "…" à la fin si tronqué */
+  vertical-align: middle;
+}
+
+.sidebar-box li small {
+  color: #666;
+  font-size: 0.8em;
+  margin-left: 8px;
+  vertical-align: middle;
+}
+
+@media (min-width: 768px) {
+  .custom-sidebar {
+    max-width: 280px;         /* Réduction légère de largeur */
+    margin-left: 2rem;        /* Espace entre texte et sidebar */
+    flex-shrink: 0;           /* Évite qu'elle se compresse */
+  }
+
+  .content-with-sidebar {
+    display: flex;
+    gap: 2rem;                /* Ajoute de l'air automatiquement */
+    align-items: flex-start;
+  }
+
+  .content-with-sidebar .main-content {
+    flex: 1;
+  }
+}
+
+.post-title {
+  text-decoration: none;
+}
+
+.post-author {
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #ccc; /* ligne très légère et grise */
+  font-style: italic; /* optionnel */
+}
