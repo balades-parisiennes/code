@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Les petites balades parisiennes</title>
+    <link>http://localhost:1313/blog/tags/</link>
+    <description>Recent content in Tags on Les petites balades parisiennes</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 25 Jun 2025 10:22:17 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exposition</title>
+      <link>http://localhost:1313/blog/tags/exposition/</link>
+      <pubDate>Wed, 25 Jun 2025 10:22:17 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/exposition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Féminisme</title>
+      <link>http://localhost:1313/blog/tags/f%C3%A9minisme/</link>
+      <pubDate>Wed, 25 Jun 2025 10:22:17 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/f%C3%A9minisme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musée Jacquemart-André</title>
+      <link>http://localhost:1313/blog/tags/mus%C3%A9e-jacquemart-andr%C3%A9/</link>
+      <pubDate>Wed, 25 Jun 2025 10:22:17 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/mus%C3%A9e-jacquemart-andr%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cinéma</title>
+      <link>http://localhost:1313/blog/tags/cin%C3%A9ma/</link>
+      <pubDate>Mon, 23 Jun 2025 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/cin%C3%A9ma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Expo Photo</title>
+      <link>http://localhost:1313/blog/tags/expo-photo/</link>
+      <pubDate>Mon, 23 Jun 2025 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/expo-photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Histoire</title>
+      <link>http://localhost:1313/blog/tags/histoire/</link>
+      <pubDate>Mon, 23 Jun 2025 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/histoire/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Institut Du Monde Arabe</title>
+      <link>http://localhost:1313/blog/tags/institut-du-monde-arabe/</link>
+      <pubDate>Mon, 23 Jun 2025 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/institut-du-monde-arabe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Musée Carnavalet</title>
+      <link>http://localhost:1313/blog/tags/mus%C3%A9e-carnavalet/</link>
+      <pubDate>Mon, 23 Jun 2025 08:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/mus%C3%A9e-carnavalet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quai De La Photo</title>
+      <link>http://localhost:1313/blog/tags/quai-de-la-photo/</link>
+      <pubDate>Sun, 22 Jun 2025 10:22:17 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/quai-de-la-photo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Féérique</title>
+      <link>http://localhost:1313/blog/tags/f%C3%A9%C3%A9rique/</link>
+      <pubDate>Fri, 20 Jun 2025 10:22:17 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/f%C3%A9%C3%A9rique/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Origami</title>
+      <link>http://localhost:1313/blog/tags/origami/</link>
+      <pubDate>Fri, 20 Jun 2025 10:22:17 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/origami/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Patinoire De Saint-Ouen</title>
+      <link>http://localhost:1313/blog/tags/patinoire-de-saint-ouen/</link>
+      <pubDate>Fri, 20 Jun 2025 10:22:17 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/patinoire-de-saint-ouen/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

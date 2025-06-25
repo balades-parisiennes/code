@@ -6,7 +6,7 @@ cd /d %~dp0
 cd ..
 
 REM 2. Définir les chemins
-set SITE_DIR=..\balades-parisiennes-site
+set SITE_DIR=..\site
 set HUGO_CMD=hugo
 
 echo ===================================

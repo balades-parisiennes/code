@@ -5,7 +5,7 @@ REM 1. Aller dans le dossier du script
 cd /d %~dp0
 cd ..
 REM Dossier du site Hugo généré
-set SITE_DIR=..\balades-parisiennes-site
+set SITE_DIR=..\site
 
 REM Aller dans le dossier du site
 cd %SITE_DIR%

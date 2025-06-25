@@ -5,7 +5,7 @@
   {{- range $i, $img := $imgs -}}
     <td>
       <a href="{{ $img | safeURL }}" data-lightbox="galerie" data-title="Image {{ add $i 1 }}">
-        <img src="{{ $img | safeURL }}" alt="Image {{ add $i 1 }}" />
+        <img src="{{ $img | safeURL }}" alt="Image {{ add $i 1 }}" style="max-height: 400px; object-fit: contain;" />
       </a>
     </td>
   {{- end -}}
