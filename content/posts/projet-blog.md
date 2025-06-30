@@ -8,6 +8,10 @@ title = 'Les petites balades parisiennes'
 Bienvenue sur **notre carnet de vadrouilles culturelles** !  
 Nous, c’est *Christopher* et *Julie*, deux amateurs de musées, de trottoirs parisiens et de pauses café entre deux chefs-d’œuvre.
 
+{{< gallery images="https://res.cloudinary.com/dzxydg8dv/image/upload/v1751306408/PXL_20250224_084709125.PORTRAIT_r4nx51.jpg" >}}
+
+---
+
 À chaque exposition, on affûte nos baskets et talons, on dégaine notre curiosité (et parfois un parapluie), et on vous raconte tout :  
 les œuvres qui nous ont éblouis, les bancs les plus confortables, et même les toilettes les plus planquées.
 
