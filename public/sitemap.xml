@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/tags/expo-photo/</loc>
+    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/fondation-henri-cartier-bresson/</loc>
+    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/avedon/</loc>
+    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/</loc>
+    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/richard-avedon/</loc>
+    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/</loc>
+    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/tags/carrousel-du-louvre/</loc>
     <lastmod>2025-06-26T01:00:00+02:00</lastmod>
   </url><url>
@@ -11,16 +32,7 @@
     <loc>http://localhost:1313/blog/posts/house-of-dream/</loc>
     <lastmod>2025-06-26T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-06-26T01:00:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/tags/onirique/</loc>
-    <lastmod>2025-06-26T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2025-06-26T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
     <lastmod>2025-06-26T01:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/posts/artemisia/</loc>
@@ -33,9 +45,6 @@
     <lastmod>2025-06-25T10:22:17+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/cin%C3%A9ma/</loc>
-    <lastmod>2025-06-23T08:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/expo-photo/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/histoire/</loc>

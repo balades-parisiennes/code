@@ -11,15 +11,22 @@
              <a href="{{ .Permalink }}" class="index-anchor">    
                 <div class="panel panel-default">
                   
-                  {{ if .Params.img }}
-                  {{ with .Resources.Match .Params.img }}
-                    {{ range . }}
-                      <img width="100%" src="{{ .RelPermalink }}" alt="{{ .Title }}">
+                    {{ if .Params.img }}
+                        {{ if strings.HasPrefix .Params.img "http" }}
+                              <!-- Cas 1 : image externe via CDN -->
+                              <img width="100%" src="{{ .Params.img }}" alt="{{ .Title }}">
+                        {{ else }}
+                              <!-- Cas 2 : image interne liée à la page -->
+                            {{ with .Resources.Match .Params.img }}
+                                {{ range . }}
+                                    <img width="100%" src="{{ .RelPermalink }}" alt="{{ .Title }}">
+                                {{ end }}
+                            {{ end }}
+                       {{ end }}
+                    {{ else }}
+                    <!-- Image par défaut, si aucune n'est définie -->
+                        <img width="100%" src="/images/default.jpg" alt="Image par défaut">
                     {{ end }}
-                  {{ end }}
-                  {{ else }}
-                  <img width="100%" src="{{ .Site.BaseURL }}images/{{ .Site.Params.defaultImage }}" alt="{{ .Site.Title }}">
-                  {{ end }}
                   
                   <div class="panel-body">
                     <h3 class="panel-title pull-left">{{ .Title | truncate 25 }}</h3><span class="post-meta pull-right"><small>{{ .Date.Format "January 2, 2006" }}</small></span>
