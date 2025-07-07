@@ -2,87 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/tags/expo-photo/</loc>
+    <loc>http://localhost:64338/blog/tags/f%C3%A9minisme/</loc>
+    <lastmod>2025-07-07T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:64338/blog/</loc>
+    <lastmod>2025-07-07T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:64338/blog/posts/</loc>
+    <lastmod>2025-07-07T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:64338/blog/tags/rosa-bonheur/</loc>
+    <lastmod>2025-07-07T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:64338/blog/tags/</loc>
+    <lastmod>2025-07-07T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:64338/blog/tags/visite/</loc>
+    <lastmod>2025-07-07T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:64338/blog/posts/rosa-bonheur/</loc>
+    <lastmod>2025-07-07T10:22:17+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:64338/blog/tags/expo-photo/</loc>
     <lastmod>2025-07-05T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/fondation-henri-cartier-bresson/</loc>
+    <loc>http://localhost:64338/blog/tags/fondation-henri-cartier-bresson/</loc>
     <lastmod>2025-07-05T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/avedon/</loc>
+    <loc>http://localhost:64338/blog/posts/avedon/</loc>
     <lastmod>2025-07-05T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:64338/blog/tags/richard-avedon/</loc>
     <lastmod>2025-07-05T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/richard-avedon/</loc>
-    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
-    <lastmod>2025-07-05T10:22:17+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/carrousel-du-louvre/</loc>
+    <loc>http://localhost:64338/blog/tags/carrousel-du-louvre/</loc>
     <lastmod>2025-06-26T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/exposition/</loc>
+    <loc>http://localhost:64338/blog/tags/exposition/</loc>
     <lastmod>2025-06-26T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/house-of-dream/</loc>
+    <loc>http://localhost:64338/blog/posts/house-of-dream/</loc>
     <lastmod>2025-06-26T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/onirique/</loc>
+    <loc>http://localhost:64338/blog/tags/onirique/</loc>
     <lastmod>2025-06-26T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/artemisia/</loc>
+    <loc>http://localhost:64338/blog/posts/artemisia/</loc>
     <lastmod>2025-06-25T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/f%C3%A9minisme/</loc>
+    <loc>http://localhost:64338/blog/tags/mus%C3%A9e-jacquemart-andr%C3%A9/</loc>
     <lastmod>2025-06-25T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/mus%C3%A9e-jacquemart-andr%C3%A9/</loc>
-    <lastmod>2025-06-25T10:22:17+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/cin%C3%A9ma/</loc>
+    <loc>http://localhost:64338/blog/tags/cin%C3%A9ma/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/histoire/</loc>
+    <loc>http://localhost:64338/blog/tags/histoire/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/institut-du-monde-arabe/</loc>
+    <loc>http://localhost:64338/blog/tags/institut-du-monde-arabe/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/mystere-cleopatre/</loc>
+    <loc>http://localhost:64338/blog/posts/mystere-cleopatre/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/agnes-varda/</loc>
+    <loc>http://localhost:64338/blog/posts/agnes-varda/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/mus%C3%A9e-carnavalet/</loc>
+    <loc>http://localhost:64338/blog/tags/mus%C3%A9e-carnavalet/</loc>
     <lastmod>2025-06-23T08:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/quai-de-la-photo/</loc>
+    <loc>http://localhost:64338/blog/tags/quai-de-la-photo/</loc>
     <lastmod>2025-06-22T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/superfacial/</loc>
+    <loc>http://localhost:64338/blog/posts/superfacial/</loc>
     <lastmod>2025-06-22T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/f%C3%A9%C3%A9rique/</loc>
+    <loc>http://localhost:64338/blog/tags/f%C3%A9%C3%A9rique/</loc>
     <lastmod>2025-06-20T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/ocean-de-lea/</loc>
+    <loc>http://localhost:64338/blog/posts/ocean-de-lea/</loc>
     <lastmod>2025-06-20T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/origami/</loc>
+    <loc>http://localhost:64338/blog/tags/origami/</loc>
     <lastmod>2025-06-20T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/patinoire-de-saint-ouen/</loc>
+    <loc>http://localhost:64338/blog/tags/patinoire-de-saint-ouen/</loc>
     <lastmod>2025-06-20T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/posts/projet-blog/</loc>
+    <loc>http://localhost:64338/blog/posts/projet-blog/</loc>
     <lastmod>2025-06-07T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/categories/</loc>
+    <loc>http://localhost:64338/blog/categories/</loc>
   </url>
 </urlset>

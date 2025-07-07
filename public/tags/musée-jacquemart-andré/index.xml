@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musée Jacquemart-André on Les petites balades parisiennes</title>
-    <link>http://localhost:1313/blog/tags/mus%C3%A9e-jacquemart-andr%C3%A9/</link>
+    <link>http://localhost:64338/blog/tags/mus%C3%A9e-jacquemart-andr%C3%A9/</link>
     <description>Recent content in Musée Jacquemart-André on Les petites balades parisiennes</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 25 Jun 2025 10:22:17 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/tags/mus%C3%A9e-jacquemart-andr%C3%A9/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:64338/blog/tags/mus%C3%A9e-jacquemart-andr%C3%A9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artemisia Héroïne de l&#39;art</title>
-      <link>http://localhost:1313/blog/posts/artemisia/</link>
+      <link>http://localhost:64338/blog/posts/artemisia/</link>
       <pubDate>Wed, 25 Jun 2025 10:22:17 +0200</pubDate>
-      <guid>http://localhost:1313/blog/posts/artemisia/</guid>
+      <guid>http://localhost:64338/blog/posts/artemisia/</guid>
       <description>&lt;p&gt;&lt;em&gt;J’ai eu l’opportunité de voir cette exposition guidée avec conférencier lors d’un cocktail organisé par nos avocats en février 2025 dans l’un des plus jolis musées de Paris: le musée Jacquemart André. Une belle découverte que je n’aurais pas forcément faite sans cela.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sans le savoir, je découvrais de nouveau une artiste dans les sujets qui m’animent depuis presque douze mois : le combat contre les violences faites aux femmes.&lt;/p&gt;</description>
     </item>
   </channel>
