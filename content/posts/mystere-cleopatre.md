@@ -56,3 +56,5 @@ J’ai kiffé.
 
 > 💖 Astuce Julie :
 > A l'institut du Monde Arabe prends les assenceurs, pour pouvoir déguster sur les toits un délicieux thé avec une très belle vue de Paris
+
+{{< notation rose="4" jaune="3" violet="4" >}}

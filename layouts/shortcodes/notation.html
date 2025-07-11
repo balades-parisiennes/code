@@ -1,0 +1,114 @@
+{{/* layouts/shortcodes/notation.html */}}
+{{- $rose := .Get "rose" | default "0" | int -}}
+{{- $jaune := .Get "jaune" | default "0" | int -}}
+{{- $bleu := .Get "bleu" | default "0" | int -}}
+{{- $violet := .Get "violet" | default "0" | int -}}
+
+{{ $icons := dict
+  "violet" "https://github.com/user-attachments/assets/c4c01cf2-6565-41bc-96a4-ca192a6e063d"
+  "jaune" "https://github.com/user-attachments/assets/fda9b410-7ef8-435b-98e0-d3b03bdf77e2"
+  "bleu" "https://github.com/user-attachments/assets/c05b4258-0bfc-49fb-955d-6b3cf45118eb"
+  "rose" "https://github.com/user-attachments/assets/594d3ac7-7658-4025-837c-c52ba879cd9c"
+}}
+
+{{ $labels := dict
+  "rose" "L’Élan"
+  "jaune" "L’Aura lumineuse"
+  "bleu" "L’Aura mélancolique"
+  "violet" "L’Enveloppe"
+}}
+
+{{ $tooltips := dict
+  "violet" (slice
+    "Ça dépanne, mais on a connu mieux. Un accueil un peu froid, la boutique fait la gueule, et les toilettes… comment dire ?"
+    "Ça commence à sentir un peu la maison. Quelques attentions visibles, mais pas encore de quoi s’envoler."
+    "On s’y sent bien, le personnel est sympa, la boutique donne envie, et les toilettes sont propres."
+    "Ici, on est choyés. Un vrai sourire, des petits détails charmants, et un cadre qui donne envie de revenir."
+    "Une expérience douce et parfaite, où tout est pensé pour le bien-être. On se sent comme à la maison, en mieux."
+  )
+  "jaune" (slice
+    "Une lumière blafarde, un lieu qui tire la gueule. Le gris domine. On a vu des parkings plus inspirants."
+    "Une ambiance un peu plate, un décor qui hésite entre terne et tiède. Mais au moins, c’est bien rangé."
+    "C’est joli, c’est doux, c’est bien éclairé. On aurait pu y écrire un poème."
+    "Une belle lumière, des couleurs qui chantent, un vrai bonheur visuel. On s’y sent vivant."
+    "Explosion de lumière, harmonie des formes, énergie contagieuse. On a eu envie de danser avec les murs."
+  )
+  "bleu" (slice
+    "Un couloir humide, un éclairage au néon, un fond sonore anxiogène. Tristesse grise et mauvais goût. On a perdu foi en l’humanité."
+    "C’est morne, mais pas inintéressant. Une ambiance froide mais assumée. L’émotion est là, quelque part sous la moquette."
+    "Une sobriété touchante. Une poésie discrète. Ce lieu ne cherche pas à plaire, mais il dit quelque chose."
+    "Sombre mais puissant. Le lieu nous regarde dans les yeux. C’est peut-être triste, mais ça compte."
+    "Un lieu dur, mais beau. Il parle de l’humain, de l’histoire, du réel. On en sort silencieux… mais grandi."
+  )
+  "rose" (slice
+    "Un pas… puis l’ennui. On s’est égarés dans le banal. On a regardé notre montre, notre téléphone… et les toilettes."
+    "Une bonne intention, quelques soubresauts d’intérêt… Mais au fond, on aurait aussi bien pu aller au Franprix."
+    "Une belle promenade. Rien de révolutionnaire, mais on a souri. C’est comme un dimanche avec du soleil, sans surprise mais agréable."
+    "Ça démarre fort, on est pris par la main, ça étonne, ça détonne. Un effet « Ah ouais quand même », voire un petit frisson dans la nuque."
+    "On a flotté, vibré, voulu le raconter à tout le monde. C’est de l’art, c’est du génie, c’est un peu notre nouvelle religion."
+  )
+}}
+
+<div class="sidebar-box">
+  <div class="notation-title">
+    <strong>Baromètre de l’Évasion</strong>
+    <a href="https://github.com/balades-parisiennes/blog/wiki/Notation-:-%22Le-Barom%C3%A8tre-de-l%E2%80%99%C3%A9vasion%22" target="_blank" title="Voir la grille de lecture">(?)</a>
+  </div>
+
+{{ $order := slice  "rose" "jaune" "bleu" "violet"}}
+{{ range $type := $order }}
+  {{ $note := index (dict "violet" $violet "jaune" $jaune "bleu" $bleu "rose" $rose) $type }}
+  {{ if gt $note 0 }}
+    {{ if gt $note 0 }}
+      <div class="notation-line">
+        <span>{{ index $labels $type }} :</span>
+        {{ range seq 1 $note }}
+          <img
+            src="{{ index $icons $type }}"
+            class="orchidee-icon"
+            alt="orchidée {{ $type }}"
+            title="{{ index (index $tooltips $type) (sub $note 1) }}"
+          />
+        {{ end }}
+      </div>
+    {{ end }}
+  {{ end }}
+{{ end }}
+</div>
+
+<style>
+.notation-widget {
+  font-size: 0.95rem;
+  background: #fafafa;
+  padding: 1em;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+.notation-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5em;
+}
+.notation-title a {
+  text-decoration: none;
+  font-size: 0.9em;
+  color: #888;
+}
+.notation-line {
+  display: flex;
+  align-items: center;
+  margin: 0.25em 0;
+}
+.notation-line span {
+  min-width: 160px;
+  display: inline-block;
+  font-weight: 500;
+}
+.orchidee-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 3px;
+  vertical-align: middle;
+}
+</style>
