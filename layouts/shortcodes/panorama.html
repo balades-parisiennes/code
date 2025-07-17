@@ -1,0 +1,6 @@
+<div style="overflow-x: auto; white-space: nowrap; margin: 2rem 0;">
+  <a href="{{ .Get "src" }}" data-lightbox="galerie" data-title="{{ .Get "title" | default "Panorama" }}">
+    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" | default "Panorama" }}"
+         style="display: inline-block; max-height: 500px; border-radius: 8px;" />
+  </a>
+</div>

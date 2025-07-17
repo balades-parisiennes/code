@@ -1,0 +1,29 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "Image" }}
+{{ $imagewidth := .Get "imagewidth" | default "50%" }}
+{{ $textwidth := .Get "textwidth" | default "50%" }}
+{{ $position := .Get "position" | default "left" }}
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    {{ if eq $position "left" }}
+      <td style="width: {{ $imagewidth }}; vertical-align: top; text-align: center;">
+        <a href="{{ $src | safeURL }}" data-lightbox="galerie" data-title="{{ $alt }}">
+          <img src="{{ $src | safeURL }}" alt="{{ $alt }}" style="max-width: 100%; height: auto; max-height: 400px; object-fit: contain;" />
+        </a>
+      </td>
+      <td style="width: {{ $textwidth }}; vertical-align: top; padding-left: 1em;">
+        {{ .Inner | markdownify }}
+      </td>
+    {{ else }}
+      <td style="width: {{ $textwidth }}; vertical-align: top; padding-right: 1em;">
+        {{ .Inner | markdownify }}
+      </td>
+      <td style="width: {{ $imagewidth }}; vertical-align: top; text-align: center;">
+        <a href="{{ $src | safeURL }}" data-lightbox="galerie" data-title="{{ $alt }}">
+          <img src="{{ $src | safeURL }}" alt="{{ $alt }}" style="max-width: 100%; height: auto; max-height: 400px; object-fit: contain;" />
+        </a>
+      </td>
+    {{ end }}
+  </tr>
+</table>
