@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/tags/exp%C3%A9rience/</loc>
+    <lastmod>2025-07-21T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/le-grand-h%C3%B4tel-des-r%C3%AAves/</loc>
+    <lastmod>2025-07-21T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-07-21T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/onirique/</loc>
+    <lastmod>2025-07-21T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/</loc>
+    <lastmod>2025-07-21T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/</loc>
+    <lastmod>2025-07-21T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/jules-verne/</loc>
+    <lastmod>2025-07-21T01:00:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/tags/amiti%C3%A9/</loc>
     <lastmod>2025-07-15T10:22:17+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/expo/</loc>
     <lastmod>2025-07-15T10:22:17+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-07-15T10:22:17+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2025-07-15T10:22:17+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/tags/superweek/</loc>
     <lastmod>2025-07-15T10:22:17+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/posts/superweek32/</loc>
-    <lastmod>2025-07-15T10:22:17+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
     <lastmod>2025-07-15T10:22:17+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/balade/</loc>
@@ -66,9 +78,6 @@
     <lastmod>2025-06-26T01:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/posts/house-of-dream/</loc>
-    <lastmod>2025-06-26T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/onirique/</loc>
     <lastmod>2025-06-26T01:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/posts/artemisia/</loc>
