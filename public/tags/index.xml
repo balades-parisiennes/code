@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Les petites balades parisiennes</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 21 Jul 2025 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 24 Aug 2025 01:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exposition</title>
+      <link>http://localhost:1313/blog/tags/exposition/</link>
+      <pubDate>Sun, 24 Aug 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/exposition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>La Défense</title>
+      <link>http://localhost:1313/blog/tags/la-d%C3%A9fense/</link>
+      <pubDate>Sun, 24 Aug 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/la-d%C3%A9fense/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Street Art</title>
+      <link>http://localhost:1313/blog/tags/street-art/</link>
+      <pubDate>Sun, 24 Aug 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/street-art/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Comédie Musicale</title>
       <link>http://localhost:1313/blog/tags/com%C3%A9die-musicale/</link>
@@ -139,13 +160,6 @@
       <link>http://localhost:1313/blog/tags/carrousel-du-louvre/</link>
       <pubDate>Thu, 26 Jun 2025 01:00:00 +0200</pubDate>
       <guid>http://localhost:1313/blog/tags/carrousel-du-louvre/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exposition</title>
-      <link>http://localhost:1313/blog/tags/exposition/</link>
-      <pubDate>Thu, 26 Jun 2025 01:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/tags/exposition/</guid>
       <description></description>
     </item>
     <item>

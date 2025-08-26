@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Street Art on Les petites balades parisiennes</title>
+    <link>http://localhost:1313/blog/tags/street-art/</link>
+    <description>Recent content in Street Art on Les petites balades parisiennes</description>
+    <generator>Hugo</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 24 Aug 2025 01:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/tags/street-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zoo Art Show</title>
+      <link>http://localhost:1313/blog/posts/zoo-art-show/</link>
+      <pubDate>Sun, 24 Aug 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/posts/zoo-art-show/</guid>
+      <description>&lt;p&gt;&lt;em&gt;La Défense, dimanche après-midi. Il fait beau, c’est désert, les costards-cravates ont déserté les lieux. Et, au milieu, le street art mis en cage… enfin, mis en exposition. Trois étages à descendre pour raconter une histoire : celle d’un art né dans la rue, et qui s’invite aujourd’hui dans les tours.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h4 id=&#34;5ᵉ-étage--le-terrain-de-jeu&#34;&gt;5ᵉ étage : le terrain de jeu&lt;/h4&gt;&#xA;&lt;p&gt;Des tags, des graffs, de l’anarchie et de &lt;em&gt;foutues idées&lt;/em&gt; ! On sent encore la rue, les pavés, les nuits blanches à la bombe aérosol. Ça respire la &lt;strong&gt;liberté&lt;/strong&gt;, le pochoir malicieux, l’envie de crier quelque chose au monde.&#xA;Soyons honnêtes : ce n’est pas très beau, pas encore “instagrammable”. Mais ce parfum de contestation, cette petite odeur de poudre et de sang versé, titille en moi mon Léo Ferré intérieur.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
