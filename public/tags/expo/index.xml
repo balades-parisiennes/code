@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Expo on Les petites balades parisiennes</title>
-    <link>http://localhost:49708/blog/tags/expo/</link>
+    <link>http://localhost:1313/blog/tags/expo/</link>
     <description>Recent content in Expo on Les petites balades parisiennes</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 15 Jul 2025 10:22:17 +0200</lastBuildDate>
-    <atom:link href="http://localhost:49708/blog/tags/expo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/expo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Superweek 32, les trois ans</title>
-      <link>http://localhost:49708/blog/posts/superweek32/</link>
+      <link>http://localhost:1313/blog/posts/superweek32/</link>
       <pubDate>Tue, 15 Jul 2025 10:22:17 +0200</pubDate>
-      <guid>http://localhost:49708/blog/posts/superweek32/</guid>
+      <guid>http://localhost:1313/blog/posts/superweek32/</guid>
       <description>&lt;p&gt;&lt;em&gt;Après une douce mélancolie, née de la solitude de la fièvre,&#xA;me voilà sauvé in extremis par mes saintes alliées : antibio et corti.&#xA;La rage de vivre revient, comme un feu sous la peau,&#xA;juste à temps pour souffler les trois bougies de mes superweekends,&#xA;aux côtés de ma fidèle complice de coeur, Audrey.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Le &lt;strong&gt;superweekend&lt;/strong&gt;, c’est presque une philosophie de vie : laisser au temps de travail la charge du repos, pour mieux consacrer les longs week-ends à se cultiver, aimer et se divertir.&lt;/p&gt;</description>
     </item>
   </channel>

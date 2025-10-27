@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Balade on Les petites balades parisiennes</title>
-    <link>http://localhost:49708/blog/tags/balade/</link>
+    <link>http://localhost:1313/blog/tags/balade/</link>
     <description>Recent content in Balade on Les petites balades parisiennes</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Tue, 08 Jul 2025 00:22:17 +0200</lastBuildDate>
-    <atom:link href="http://localhost:49708/blog/tags/balade/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/tags/balade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trianons, entre faste et fantaisie</title>
-      <link>http://localhost:49708/blog/posts/trianon/</link>
+      <link>http://localhost:1313/blog/posts/trianon/</link>
       <pubDate>Tue, 08 Jul 2025 00:22:17 +0200</pubDate>
-      <guid>http://localhost:49708/blog/posts/trianon/</guid>
+      <guid>http://localhost:1313/blog/posts/trianon/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Les Trianons, du faste à l’atmosphère trompeuse&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;On entre aux Trianons un peu comme on entrouvre une porte interdite. D’abord, tout semble royalement familier : dorures, moulures, soies tendues, chaises pour popotins impériaux. Le faste est là, bien présent… mais moins écrasant, plus complice. Tiens, tiens ? Ici, on sent qu’on s’amuse. Ici, on crée des secrets. On imagine sans peine des éclats de rire, des murmures, des regards en coin. La cour se délace un peu le corset, et retrouve une humanité bien dissimulée. Derrière les murs de soie, ce ne sont pas des rois qui posent, mais des gens qui s’amusent à en être.&lt;/p&gt;</description>
     </item>
   </channel>
