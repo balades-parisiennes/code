@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Les petites balades parisiennes</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 27 Oct 2025 01:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 01:00:00 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exposition</title>
+      <link>http://localhost:1313/blog/tags/exposition/</link>
+      <pubDate>Thu, 30 Oct 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/exposition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Peinture</title>
+      <link>http://localhost:1313/blog/tags/peinture/</link>
+      <pubDate>Thu, 30 Oct 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/peinture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Petit Palais</title>
+      <link>http://localhost:1313/blog/tags/petit-palais/</link>
+      <pubDate>Thu, 30 Oct 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/petit-palais/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>XVIIIe Siècle</title>
+      <link>http://localhost:1313/blog/tags/xviiie-si%C3%A8cle/</link>
+      <pubDate>Thu, 30 Oct 2025 01:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/blog/tags/xviiie-si%C3%A8cle/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Art Déco</title>
       <link>http://localhost:1313/blog/tags/art-d%C3%A9co/</link>
@@ -20,13 +48,6 @@
       <link>http://localhost:1313/blog/tags/botanique/</link>
       <pubDate>Mon, 27 Oct 2025 01:00:00 +0200</pubDate>
       <guid>http://localhost:1313/blog/tags/botanique/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Exposition</title>
-      <link>http://localhost:1313/blog/tags/exposition/</link>
-      <pubDate>Mon, 27 Oct 2025 01:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/tags/exposition/</guid>
       <description></description>
     </item>
     <item>
@@ -55,27 +76,6 @@
       <link>http://localhost:1313/blog/tags/paris/</link>
       <pubDate>Mon, 27 Oct 2025 01:00:00 +0200</pubDate>
       <guid>http://localhost:1313/blog/tags/paris/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Peinture</title>
-      <link>http://localhost:1313/blog/tags/peinture/</link>
-      <pubDate>Tue, 16 Sep 2025 01:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/tags/peinture/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Petit Palais</title>
-      <link>http://localhost:1313/blog/tags/petit-palais/</link>
-      <pubDate>Tue, 16 Sep 2025 01:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/tags/petit-palais/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>XVIIIe Siècle</title>
-      <link>http://localhost:1313/blog/tags/xviiie-si%C3%A8cle/</link>
-      <pubDate>Tue, 16 Sep 2025 01:00:00 +0200</pubDate>
-      <guid>http://localhost:1313/blog/tags/xviiie-si%C3%A8cle/</guid>
       <description></description>
     </item>
     <item>

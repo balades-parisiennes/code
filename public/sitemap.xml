@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/blog/tags/exposition/</loc>
+    <lastmod>2025-10-30T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/greuze/</loc>
+    <lastmod>2025-10-30T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-10-30T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/peinture/</loc>
+    <lastmod>2025-10-30T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/petit-palais/</loc>
+    <lastmod>2025-10-30T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/posts/</loc>
+    <lastmod>2025-10-30T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/</loc>
+    <lastmod>2025-10-30T01:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tags/xviiie-si%C3%A8cle/</loc>
+    <lastmod>2025-10-30T01:00:00+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/blog/posts/cent-ans-art-deco/</loc>
     <lastmod>2025-10-27T01:00:00+02:00</lastmod>
   </url><url>
@@ -11,13 +35,7 @@
     <loc>http://localhost:1313/blog/tags/botanique/</loc>
     <lastmod>2025-10-27T01:00:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/tags/exposition/</loc>
-    <lastmod>2025-10-27T01:00:00+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/tags/jardin-des-plantes/</loc>
-    <lastmod>2025-10-27T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2025-10-27T01:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/posts/1001-orchidees/</loc>
@@ -31,24 +49,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/tags/paris/</loc>
     <lastmod>2025-10-27T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/posts/</loc>
-    <lastmod>2025-10-27T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/</loc>
-    <lastmod>2025-10-27T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/posts/greuze/</loc>
-    <lastmod>2025-09-16T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/peinture/</loc>
-    <lastmod>2025-09-16T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/petit-palais/</loc>
-    <lastmod>2025-09-16T01:00:00+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/tags/xviiie-si%C3%A8cle/</loc>
-    <lastmod>2025-09-16T01:00:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/tags/la-d%C3%A9fense/</loc>
     <lastmod>2025-08-24T01:00:00+02:00</lastmod>

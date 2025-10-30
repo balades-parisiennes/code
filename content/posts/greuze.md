@@ -1,6 +1,6 @@
 +++
 title = "Greuze : L’enfance en lumière"
-date = '2025-09-16T01:00:00+02:00'
+date = '2025-10-30T01:00:00+02:00'
 draft = false
 img = "https://res.cloudinary.com/dzxydg8dv/image/upload/v1761845818/0_h9dvet.jpg"
 author = "Julie"
